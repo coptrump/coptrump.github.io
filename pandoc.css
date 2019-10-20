@@ -18,6 +18,8 @@ body {
   margin: auto;
   /* max-width: 42em; */
   background: #fefefe;
+  max-width: 97%; /* added */
+  width: 97%; /* added */
 }
 
 a {
@@ -229,6 +231,7 @@ table {
   border-right: 1px solid #ddd;
   border-spacing: 0;
   border-collapse: collapse;
+  width: 100%;
 }
 
 table th {
@@ -284,11 +287,15 @@ table td {
   }
 
   a[href]:after {
+    /*
     content: " (" attr(href) ")";
+    */
   }
 
   abbr[title]:after {
+    /*
     content: " (" attr(title) ")";
+    */
   }
 
   .ir a:after, a[href^="javascript:"]:after, a[href^="#"]:after {
