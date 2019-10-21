@@ -1,33 +1,37 @@
-<span style="display:block;text-align:center">![Country Over Party](country-over-party-cropped.jpg)</span>
-
+<span style="display:block;text-align:center">![Country Over Party](country-over-party-cropped.jpg)</span><br/>
 _Republican legislators, cabinet/White House officials, and prominent conservatives/veterans bravely speaking out:_
 
 |Date/Speaker|Statement (_prefaced with summary_)|
 |-------|-------|
+<span style="color:#002868">**__20 Oct 19__**</span>|&nbsp;
+Sen. __Lindsey Graham__ <span style="color:#6e6e6e">[R&#8209;SC][rep39]</span> <span style="background-color:#ffd1d1">[R+8][pvi39]</span> (_2021_)|\[<span style="color:#FFB000">_Supports gathering facts_</span>\]: “Sure. I mean ... show me something that ... is a crime,” Graham said. “If you could show me that, you know, Trump actually was engaging in a quid pro quo, outside the phone call, that would be very disturbing.” He followed “__as to asking China to look into Biden, that was stupid__. ... Bad idea.”[<sup>39</sup>](#c39)<a name="top39"></a>
+Sen. __Mitt Romney__ <span style="color:#6e6e6e">[R&#8209;UT][rep38]</span> <span style="background-color:#ff8b8b">[R+20][pvi38]</span> (_2025_)|“__We certainly can't have presidents asking foreign countries to provide something of political value. That is, after all, against the law__.” Romney said.[<sup>38</sup>](#c38)<a name="top38"></a>
 <span style="color:#002868">**__19 Oct 19__**</span>|&nbsp;
-Rep. __Mike Simpson__ <span style="color:#6e6e6e">[R&#8209;ID][rep35]</span> <span style="background-color:#ff9d9d">[R+17][pvi35]</span> (_2021_)|“You have to go out and try to defend [Trump],” Simpson said. “Well, __I don’t know if I can do that!__”[<sup>35</sup>](#c35)<a name="top35"></a>
+Rep. __Mike Simpson__ <span style="color:#6e6e6e">[R&#8209;ID][rep37]</span> <span style="background-color:#ff9d9d">[R+17][pvi37]</span> (_2021_)|“You have to go out and try to defend [Trump],” Simpson said. “Well, __I don’t know if I can do that!__”[<sup>37</sup>](#c37)<a name="top37"></a>
 <span style="color:#002868">**__18 Oct 19__**</span>|&nbsp;
-Fmr. Gov. __John Kasich__ <span style="color:#6e6e6e">[R&#8209;OH][rep34]</span> <span style="background-color:#ffeeee">[R+3][pvi34]</span>|\[<span style="color:#BF0A30">_Supports impeachment_</span>\]: Kasich says __he supports impeaching the president__.  Kasich said the “final straw” for him was when acting White House chief of staff Mick Mulvaney acknowledged Thursday that Trump’s decision to hold up military aid to Ukraine was linked to his demand that Kyiv investigate the Democratic National Committee and the 2016 U.S. presidential campaign.[<sup>34</sup>](#c34)<a name="top34"></a>
-Rep. __Francis Rooney__ <span style="color:#6e6e6e">[R&#8209;FL][rep33]</span> <span style="background-color:#ffb4b4">[R+13][pvi33]</span> (_Retiring_)|\[<span style="color:#FFB000">_Supports gathering facts_</span>\]: “But I think __we need to get all the facts on the table__,” Rooney said.[<sup>33</sup>](#c33)<a name="top33"></a>
-Fmr. Trump Defense Sec. __Jim Mattis__ <span style="color:#6e6e6e">([I][I])</span> <span style="background-color:#ffffff">[][pvi32]</span>|“__I earned my spurs on the battlefield; Donald Trump earned his spurs in a letter from a doctor__,” Mattis said.[<sup>32</sup>](#c32)<a name="top32"></a>
+Fmr. Gov. __John Kasich__ <span style="color:#6e6e6e">[R&#8209;OH][rep36]</span> <span style="background-color:#ffeeee">[R+3][pvi36]</span>|\[<span style="color:#BF0A30">_Supports impeachment_</span>\]: Kasich says __he supports impeaching the president__.  Kasich said the “final straw” for him was when acting White House chief of staff Mick Mulvaney acknowledged Thursday that Trump’s decision to hold up military aid to Ukraine was linked to his demand that Kyiv investigate the Democratic National Committee and the 2016 U.S. presidential campaign.[<sup>36</sup>](#c36)<a name="top36"></a>
+Rep. __Francis Rooney__ <span style="color:#6e6e6e">[R&#8209;FL][rep35]</span> <span style="background-color:#ffb4b4">[R+13][pvi35]</span> (_Retiring_)|\[<span style="color:#FFB000">_Supports gathering facts_</span>\]: “But I think __we need to get all the facts on the table__,” Rooney said.[<sup>35</sup>](#c35)<a name="top35"></a>
+Sen. __Lisa Murkowski__ <span style="color:#6e6e6e">[R&#8209;AK][rep34]</span> <span style="background-color:#ffcbcb">[R+9][pvi34]</span> (_2023_)|Murkowski condemned the administration’s alleged conversations with Ukraine after learning of Mulvaney’s comments. “__You don’t hold up foreign aid that we had previously appropriated for a political initiative. Period__.”[<sup>34</sup>](#c34)<a name="top34"></a>
+Fmr. Trump Defense Sec. __Jim Mattis__ <span style="color:#6e6e6e">([I][I])</span> <span style="background-color:#ffffff">[][pvi33]</span>|“__I earned my spurs on the battlefield; Donald Trump earned his spurs in a letter from a doctor__,” Mattis said.[<sup>33</sup>](#c33)<a name="top33"></a>
 <span style="color:#002868">**__17 Oct 19__**</span>|&nbsp;
-Fmr. Sen. __Rick Santorum__ <span style="color:#6e6e6e">[R&#8209;PA][rep31]</span> <span style="background-color:#ffffff">[EVEN][pvi31]</span>|“[Trump] has really stepped in it. This was a poor decision, this is having really startling ― even startling to him ― consequences.”  Santorum said. “This is really bad for the president come November of 2020 and I have been hearing from so many Republicans who love Donald Trump who are telling me for the first time they’re taking a step back and __they’re actually thinking about whether they’re going to vote for this man__. I’ve heard this from people I’m stunned to hear it from.”[<sup>31</sup>](#c31)<a name="top31"></a>
+Fmr. Sen. __Rick Santorum__ <span style="color:#6e6e6e">[R&#8209;PA][rep32]</span> <span style="background-color:#ffffff">[EVEN][pvi32]</span>|“[Trump] has really stepped in it. This was a poor decision, this is having really startling ― even startling to him ― consequences.”  Santorum said. “This is really bad for the president come November of 2020 and I have been hearing from so many Republicans who love Donald Trump who are telling me for the first time they’re taking a step back and __they’re actually thinking about whether they’re going to vote for this man__. I’ve heard this from people I’m stunned to hear it from.”[<sup>32</sup>](#c32)<a name="top32"></a>
 <span style="color:#002868">**__16 Oct 19__**</span>|&nbsp;
-Fmr. Sen. __Bob Corker__ <span style="color:#6e6e6e">[R&#8209;TN][rep30]</span> <span style="background-color:#ffaeae">[R+14][pvi30]</span>|“__It's hard for me to understand how [Trump] could have such disregard for things that over time will come back to haunt us,__” Corker said.[<sup>30</sup>](#c30)<a name="top30"></a>
+Fmr. Sen. __Bob Corker__ <span style="color:#6e6e6e">[R&#8209;TN][rep31]</span> <span style="background-color:#ffaeae">[R+14][pvi31]</span>|Corker described Trump's initial call with Erdogan as a “__sloppy, precipitous phone call that is going to end up killing a lot of people__” and said that Trump basically “gave them the green light” during the phone call he had with Erdogan earlier this month. “__I don't know how any leader could have made this type of decision, especially over a phone call.__” He went on to say, “__It's hard for me to understand how a president could have such disregard for things that over time will come back to haunt us.__”[<sup>31</sup>](#c31)<a name="top31"></a>
 <span style="color:#002868">**__15 Oct 19__**</span>|&nbsp;
-Pres. __Donald Trump__ <span style="color:#6e6e6e">([R][R])</span> <span style="background-color:#ffffff">[][pvi29]</span> (_2021_)|\[<span style="color:#BF0A30">_Supports impeachment_</span>\]: “Just out: MEDIAN HOUSEHOLD INCOME IS AT THE HIGHEST POINT EVER, EVER, EVER! How about saying it this way, IN THE HISTORY OF OUR COUNTRY! Also, MORE PEOPLE WORKING TODAY IN THE USA THAN AT ANY TIME IN HISTORY! Tough numbers for the Radical Left Democrats to beat! __Impeach the Pres.__”[<sup>29</sup>](#c29)<a name="top29"></a>
+Pres. __Donald Trump__ <span style="color:#6e6e6e">([R][R])</span> <span style="background-color:#ffffff">[][pvi30]</span> (_2021_)|\[<span style="color:#BF0A30">_Supports impeachment_</span>\]: “Just out: MEDIAN HOUSEHOLD INCOME IS AT THE HIGHEST POINT EVER, EVER, EVER! How about saying it this way, IN THE HISTORY OF OUR COUNTRY! Also, MORE PEOPLE WORKING TODAY IN THE USA THAN AT ANY TIME IN HISTORY! Tough numbers for the Radical Left Democrats to beat! __Impeach the Pres.__”[<sup>30</sup>](#c30)<a name="top30"></a>
 <span style="color:#002868">**__11 Oct 19__**</span>|&nbsp;
-Gov. __Larry Hogan__ <span style="color:#6e6e6e">[R&#8209;MD][rep28]</span> <span style="background-color:#babaff">[D+12][pvi28]</span> (_2023_)|\[<span style="color:#FF7000">_Supports an inquiry_</span>\]: “__I don’t see any other way to get the facts,__” Hogan said.[<sup>28</sup>](#c28)<a name="top28"></a>
-Rep. __John Shimkus__ <span style="color:#6e6e6e">[R&#8209;IL][rep27]</span> <span style="background-color:#ff8585">[R+21][pvi27]</span> (_Retiring_)|“__Pull my name off the 'I support Donald Trump' list,__” Shimkus said.[<sup>27</sup>](#c27)<a name="top27"></a>
+Gov. __Larry Hogan__ <span style="color:#6e6e6e">[R&#8209;MD][rep29]</span> <span style="background-color:#babaff">[D+12][pvi29]</span> (_2023_)|\[<span style="color:#FF7000">_Supports an inquiry_</span>\]: “__I don’t see any other way to get the facts,__” Hogan said.[<sup>29</sup>](#c29)<a name="top29"></a>
+Rep. __John Shimkus__ <span style="color:#6e6e6e">[R&#8209;IL][rep28]</span> <span style="background-color:#ff8585">[R+21][pvi28]</span> (_Retiring_)|“__Pull my name off the 'I support Donald Trump' list,__” Shimkus said.[<sup>28</sup>](#c28)<a name="top28"></a>
 <span style="color:#002868">**__10 Oct 19__**</span>|&nbsp;
- __George T. Conway III (I) & 15 other members of Checks and Balances__[<sup>*</sup>](#f26) <span style="background-color:#ffffff">[][pvi26]</span>|\[<span style="color:#FF7000">_Supports an inquiry_</span>\]: “__These acts, based on what has been revealed to date, are a legitimate basis for an expeditious impeachment investigation,__”[<sup>26</sup>](#c26)<a name="top26"></a>
- __George Will__ <span style="color:#6e6e6e">([U][U])</span> <span style="background-color:#ffffff">[][pvi25]</span>|“[Trump] has issued a categorical refusal to supply witnesses and documents pertinent to the House investigation of whether he committed an impeachable offense regarding Ukraine. This refusal, which is analogous to an invocation of the Fifth Amendment protection against self-incrimination, justifies an inference of guilt. Worse, this refusal attacks our constitutional regime. So, __the refusal is itself an impeachable offense.__”[<sup>25</sup>](#c25)<a name="top25"></a>
-Sen. __Mitt Romney__ <span style="color:#6e6e6e">[R&#8209;UT][rep24]</span> <span style="background-color:#ff8b8b">[R+20][pvi24]</span> (_2025_)|Romney said Trump’s “__brazen and unprecedented__” actions were “__wrong and appalling,__” and “__troubling in the extreme.__”[<sup>24</sup>](#c24)<a name="top24"></a>
+ __George T. Conway III (I) & 15 other members of Checks and Balances__[<sup>*</sup>](#f27) <span style="background-color:#ffffff">[][pvi27]</span>|\[<span style="color:#FF7000">_Supports an inquiry_</span>\]: “__These acts, based on what has been revealed to date, are a legitimate basis for an expeditious impeachment investigation,__”[<sup>27</sup>](#c27)<a name="top27"></a>
+ __George Will__ <span style="color:#6e6e6e">([U][U])</span> <span style="background-color:#ffffff">[][pvi26]</span>|“[Trump] has issued a categorical refusal to supply witnesses and documents pertinent to the House investigation of whether he committed an impeachable offense regarding Ukraine. This refusal, which is analogous to an invocation of the Fifth Amendment protection against self-incrimination, justifies an inference of guilt. Worse, this refusal attacks our constitutional regime. So, __the refusal is itself an impeachable offense.__”[<sup>26</sup>](#c26)<a name="top26"></a>
+Sen. __Mitt Romney__ <span style="color:#6e6e6e">[R&#8209;UT][rep25]</span> <span style="background-color:#ff8b8b">[R+20][pvi25]</span> (_2025_)|Romney said Trump’s “__brazen and unprecedented__” actions were “__wrong and appalling,__” and “__troubling in the extreme.__”[<sup>25</sup>](#c25)<a name="top25"></a>
 <span style="color:#002868">**__09 Oct 19__**</span>|&nbsp;
-Sen. __Lindsey Graham__ <span style="color:#6e6e6e">[R&#8209;SC][rep23]</span> <span style="background-color:#ffd1d1">[R+8][pvi23]</span> (_2021_)|“I think [Trump’s] putting the nation at risk, and I think __he's putting his presidency at risk,__” Graham said. “It's not proper for the president to abandon the Kurds, turn northern Syria over to Iran eventually, and be responsible for the breakout of thousands of ISIS fighters.”[<sup>23</sup>](#c23)<a name="top23"></a>
+Sen. __Lindsey Graham__ <span style="color:#6e6e6e">[R&#8209;SC][rep24]</span> <span style="background-color:#ffd1d1">[R+8][pvi24]</span> (_2021_)|“I think [Trump’s] putting the nation at risk, and I think __he's putting his presidency at risk,__” Graham said. “It's not proper for the president to abandon the Kurds, turn northern Syria over to Iran eventually, and be responsible for the breakout of thousands of ISIS fighters.”[<sup>24</sup>](#c24)<a name="top24"></a>
 <span style="color:#002868">**__08 Oct 19__**</span>|&nbsp;
-Fmr. Gov. __John Kasich__ <span style="color:#6e6e6e">[R&#8209;OH][rep22]</span> <span style="background-color:#ffeeee">[R+3][pvi22]</span>|\[<span style="color:#FF7000">_Supports an inquiry_</span>\]: An impeachment inquiry is “__the fair and right thing to do for America,__” Kasich said.[<sup>22</sup>](#c22)<a name="top22"></a>
+Fmr. Gov. __John Kasich__ <span style="color:#6e6e6e">[R&#8209;OH][rep23]</span> <span style="background-color:#ffeeee">[R+3][pvi23]</span>|\[<span style="color:#FF7000">_Supports an inquiry_</span>\]: An impeachment inquiry is “__the fair and right thing to do for America,__” Kasich said.[<sup>23</sup>](#c23)<a name="top23"></a>
 <span style="color:#002868">**__07 Oct 19__**</span>|&nbsp;
+Sen. __Martha McSally__ <span style="color:#6e6e6e">[R&#8209;AZ][rep22]</span> <span style="background-color:#ffe2e2">[R+5][pvi22]</span> (_2021_)|\[<span style="color:#FFB000">_Supports gathering facts_</span>\]: She wants the Senate Intelligence Committee __to look into the questions__, McSally said.[<sup>22</sup>](#c22)<a name="top22"></a>
 Sen. __Rob Portman__ <span style="color:#6e6e6e">[R&#8209;OH][rep21]</span> <span style="background-color:#ffeeee">[R+3][pvi21]</span> (_2023_)|\[<span style="color:#FFB000">_Supports gathering facts_</span>\]: “__Everything should be looked at,__” Portman said.[<sup>21</sup>](#c21)<a name="top21"></a>
 Fmr. Gov. __Tom Ridge__ <span style="color:#6e6e6e">[R&#8209;PA][rep20]</span> <span style="background-color:#ffffff">[EVEN][pvi20]</span>|\[<span style="color:#FFB000">_Supports gathering facts_</span>\]: Ridge said __the investigation is needed__ to figure out the facts and what really happened involving the president.[<sup>20</sup>](#c20)<a name="top20"></a>
 <span style="color:#002868">**__06 Oct 19__**</span>|&nbsp;
@@ -63,7 +67,7 @@ Fmr. Gov. __Bill Weld__ <span style="color:#6e6e6e">[R&#8209;MA][rep2]</span> <s
 Rep. __Justin Amash__[<sup>**</sup>](#f1) <span style="color:#6e6e6e">[I&#8209;MI][rep1]</span> <span style="background-color:#ffdddd">[R+6][pvi1]</span> (_2021_)|\[<span style="color:#BF0A30">_Supports impeachment_</span>\]: “__President Trump has engaged in impeachable conduct.__”[<sup>1</sup>](#c1)<a name="top1"></a>
 
 ## Footnotes
-<a name="f26">*</a> Press Release from Checks and Balances, signed by Jonathan H. Adler, Donald B. Ayer, George T. Conway III, Carrie F. Cordero, Charles Fried, Stuart M. Gerson, Peter D. Keisler, Orin S. Kerr, Marisa C. Maleck, Trevor Potter, Alan Charles Raul, Jonathan C. Rose, Paul Rosenzweig, Andrew Sagor, Jaime D. Sneider, and J.W. Verret.<br/>
+<a name="f27">*</a> Press Release from Checks and Balances, signed by Jonathan H. Adler, Donald B. Ayer, George T. Conway III, Carrie F. Cordero, Charles Fried, Stuart M. Gerson, Peter D. Keisler, Orin S. Kerr, Marisa C. Maleck, Trevor Potter, Alan Charles Raul, Jonathan C. Rose, Paul Rosenzweig, Andrew Sagor, Jaime D. Sneider, and J.W. Verret.<br/>
 <a name="f1">**</a> Resigned from the Republican Party on July 3, 2019.
 
 [D]: https://en.wikipedia.org/wiki/Democratic_Party_(United_States) "Democrat"
@@ -72,20 +76,24 @@ Rep. __Justin Amash__[<sup>**</sup>](#f1) <span style="color:#6e6e6e">[I&#8209;M
 [N]: https://en.wikipedia.org/wiki/Independent_politician "Nonpartisan"
 [R]: https://en.wikipedia.org/wiki/Republican_Party_(United_States) "Republican"
 [U]: https://en.wikipedia.org/wiki/Independent_politician "Unaffiliated"
-[pvi35]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_congressional_district "Cook Partisan Voting Index (PVI) for Idaho - District 2"
-[pvi34]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state "Cook Partisan Voting Index (PVI) for Ohio"
-[pvi33]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_congressional_district "Cook Partisan Voting Index (PVI) for Florida - District 19"
-[pvi32]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state "Cook Partisan Voting Index (PVI) for "
-[pvi31]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state "Cook Partisan Voting Index (PVI) for Pennsylvania"
-[pvi30]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state "Cook Partisan Voting Index (PVI) for Tennessee"
-[pvi29]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state "Cook Partisan Voting Index (PVI) for "
-[pvi28]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state "Cook Partisan Voting Index (PVI) for Maryland"
-[pvi27]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_congressional_district "Cook Partisan Voting Index (PVI) for Illinois - District 15"
+[pvi39]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state "Cook Partisan Voting Index (PVI) for South Carolina"
+[pvi38]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state "Cook Partisan Voting Index (PVI) for Utah"
+[pvi37]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_congressional_district "Cook Partisan Voting Index (PVI) for Idaho - District 2"
+[pvi36]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state "Cook Partisan Voting Index (PVI) for Ohio"
+[pvi35]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_congressional_district "Cook Partisan Voting Index (PVI) for Florida - District 19"
+[pvi34]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state "Cook Partisan Voting Index (PVI) for Alaska"
+[pvi33]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state "Cook Partisan Voting Index (PVI) for "
+[pvi32]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state "Cook Partisan Voting Index (PVI) for Pennsylvania"
+[pvi31]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state "Cook Partisan Voting Index (PVI) for Tennessee"
+[pvi30]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state "Cook Partisan Voting Index (PVI) for "
+[pvi29]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state "Cook Partisan Voting Index (PVI) for Maryland"
+[pvi28]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_congressional_district "Cook Partisan Voting Index (PVI) for Illinois - District 15"
+[pvi27]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state "Cook Partisan Voting Index (PVI) for "
 [pvi26]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state "Cook Partisan Voting Index (PVI) for "
-[pvi25]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state "Cook Partisan Voting Index (PVI) for "
-[pvi24]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state "Cook Partisan Voting Index (PVI) for Utah"
-[pvi23]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state "Cook Partisan Voting Index (PVI) for South Carolina"
-[pvi22]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state "Cook Partisan Voting Index (PVI) for Ohio"
+[pvi25]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state "Cook Partisan Voting Index (PVI) for Utah"
+[pvi24]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state "Cook Partisan Voting Index (PVI) for South Carolina"
+[pvi23]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state "Cook Partisan Voting Index (PVI) for Ohio"
+[pvi22]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state "Cook Partisan Voting Index (PVI) for Arizona"
 [pvi21]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state "Cook Partisan Voting Index (PVI) for Ohio"
 [pvi20]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state "Cook Partisan Voting Index (PVI) for Pennsylvania"
 [pvi19]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_congressional_district "Cook Partisan Voting Index (PVI) for Illinois - District 8"
@@ -107,16 +115,20 @@ Rep. __Justin Amash__[<sup>**</sup>](#f1) <span style="color:#6e6e6e">[I&#8209;M
 [pvi3]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state "Cook Partisan Voting Index (PVI) for Massachusetts"
 [pvi2]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state "Cook Partisan Voting Index (PVI) for Massachusetts"
 [pvi1]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_congressional_district "Cook Partisan Voting Index (PVI) for Michigan - District 3"
-[rep35]: https://duckduckgo.com/?q=!ducky+ID-02+congressional+district+site%3Aballotpedia.org "Republican - Idaho - District 2"
-[rep34]: https://ballotpedia.org/Ohio "Republican - Ohio"
-[rep33]: https://duckduckgo.com/?q=!ducky+FL-19+congressional+district+site%3Aballotpedia.org "Republican - Florida - District 19"
-[rep31]: https://ballotpedia.org/Pennsylvania "Republican - Pennsylvania"
-[rep30]: https://ballotpedia.org/Tennessee "Republican - Tennessee"
-[rep28]: https://ballotpedia.org/Maryland "Republican - Maryland"
-[rep27]: https://duckduckgo.com/?q=!ducky+IL-15+congressional+district+site%3Aballotpedia.org "Republican - Illinois - District 15"
-[rep24]: https://ballotpedia.org/Utah "Republican - Utah"
-[rep23]: https://ballotpedia.org/South+Carolina "Republican - South Carolina"
-[rep22]: https://ballotpedia.org/Ohio "Republican - Ohio"
+[rep39]: https://ballotpedia.org/South+Carolina "Republican - South Carolina"
+[rep38]: https://ballotpedia.org/Utah "Republican - Utah"
+[rep37]: https://duckduckgo.com/?q=!ducky+ID-02+congressional+district+site%3Aballotpedia.org "Republican - Idaho - District 2"
+[rep36]: https://ballotpedia.org/Ohio "Republican - Ohio"
+[rep35]: https://duckduckgo.com/?q=!ducky+FL-19+congressional+district+site%3Aballotpedia.org "Republican - Florida - District 19"
+[rep34]: https://ballotpedia.org/Alaska "Republican - Alaska"
+[rep32]: https://ballotpedia.org/Pennsylvania "Republican - Pennsylvania"
+[rep31]: https://ballotpedia.org/Tennessee "Republican - Tennessee"
+[rep29]: https://ballotpedia.org/Maryland "Republican - Maryland"
+[rep28]: https://duckduckgo.com/?q=!ducky+IL-15+congressional+district+site%3Aballotpedia.org "Republican - Illinois - District 15"
+[rep25]: https://ballotpedia.org/Utah "Republican - Utah"
+[rep24]: https://ballotpedia.org/South+Carolina "Republican - South Carolina"
+[rep23]: https://ballotpedia.org/Ohio "Republican - Ohio"
+[rep22]: https://ballotpedia.org/Arizona "Republican - Arizona"
 [rep21]: https://ballotpedia.org/Ohio "Republican - Ohio"
 [rep20]: https://ballotpedia.org/Pennsylvania "Republican - Pennsylvania"
 [rep19]: https://duckduckgo.com/?q=!ducky+IL-08+congressional+district+site%3Aballotpedia.org "Republican - Illinois - District 8"
@@ -138,20 +150,24 @@ Rep. __Justin Amash__[<sup>**</sup>](#f1) <span style="color:#6e6e6e">[I&#8209;M
 
 
 ## Citations
-<sup><a name="c35">35</a></sup> Lanard, Noah. &ldquo;A Small But Growing Group of Republicans: Trump Is Forcing Us to “Defend the Indefensible” – Mother Jones&rdquo;, _Mother Jones_, 19 October 2019, https://www.motherjones.com/politics/2019/10/republicans-cracking-trump-scandals-washington-post/ [^](#top35)<br/>
-<sup><a name="c34">34</a></sup> n/a. &ldquo;‘Final straw’: GOP ex-Ohio Gov. Kasich supports impeachment&rdquo;, _apnews.com_, 18 October 2019, https://apnews.com/0a2326173c884c8fb8124a4e204b632b [^](#top34)<br/>
-<sup><a name="c33">33</a></sup> Debonis, Mike. &ldquo;‘I didn’t take this job to keep it’: GOP Rep. Rooney hints he’s open to impeachment&rdquo;, _Washington Post_, 18 October 2019, https://www.washingtonpost.com/powerpost/i-didnt-take-this-job-to-keep-it-gop-rep-rooney-hints-hes-open-to-impeachment/2019/10/18/3958e684-f1d0-11e9-b648-76bcf86eb67e_story.html#click=https://t.co/XUyhMtHGoU [^](#top33)<br/>
-<sup><a name="c32">32</a></sup> Pilkington, Ed. &ldquo;General discontent: how the president's military men turned on Trump&rdquo;, _the Guardian_, 18 October 2019, https://www.theguardian.com/us-news/2019/oct/18/generals-donald-trump-military-criticism [^](#top32)<br/>
-<sup><a name="c31">31</a></sup> Editor, Overnight. &ldquo;‘This Is Really Bad’: Rick Santorum Has An Ominous 2020 Warning For Trump&rdquo;, _HuffPost_, 17 October 2019, https://www.huffpost.com/entry/rick-santorum-donald-trump-2020_n_5da94972e4b0e71d65b67f06 [^](#top31)<br/>
-<sup><a name="c30">30</a></sup> n/a. &ldquo;GOP senators criticize Trump over Syria comments and policy&rdquo;, _cbsnews.com_, 16 October 2019, https://www.cbsnews.com/news/gop-senators-criticize-trump-over-syria-comments-and-policy/ [^](#top30)<br/>
-<sup><a name="c29">29</a></sup> @realDonaldTrump. &ldquo;Donald J. Trump on Twitter&rdquo;, _Twitter_, 15 October 2019, https://twitter.com/realDonaldTrump/status/1184129825231069184 [^](#top29)<br/>
-<sup><a name="c28">28</a></sup> Marshall, Abbey. &ldquo;Larry Hogan comes out in support of Trump impeachment inquiry&rdquo;, _Politico_, 11 October 2019, https://www.politico.com/news/2019/10/11/larry-hogan-trump-impeachment-044378 [^](#top28)<br/>
-<sup><a name="c27">27</a></sup> Kelly, Brian. &ldquo;Metro East Congressman John Shimkus pulls Trump support after Syria decision&rdquo;, _Kmox-Am_, 11 October 2019, https://kmox.radio.com/articles/news/trump-loses-metro-east-ally-john-shimkus-over-syria-decision [^](#top27)<br/>
-<sup><a name="c26">26</a></sup> n/a. &ldquo;New Statement from Checks and Balances on President Trump’s Abuse of Office&rdquo;, _checks-and-balances.org_, 10 October 2019, https://checks-and-balances.org/new-statement-from-checks-and-balances-on-president-trumps-abuse-of-office/ [^](#top26)<br/>
-<sup><a name="c25">25</a></sup> Will, George F.. &ldquo;The spiraling Trump adds self-impeachment to his repertoire&rdquo;, _Washington Post_, 10 October 2019, https://www.washingtonpost.com/opinions/the-spiraling-president-adds-self-impeachment-to-his-repertoire/2019/10/10/8c1a739c-eb7c-11e9-9c6d-436a0df4f31d_story.html [^](#top25)<br/>
-<sup><a name="c24">24</a></sup> Sltrib.Com, Bwood. &ldquo;Mitt Romney says everybody knows it ‘is wrong’ to ask a foreign government to probe a political rival&rdquo;, _The Salt Lake Tribune_, 10 October 2019, https://www.sltrib.com/news/politics/2019/10/10/mitt-romney-says-he-hasnt/ [^](#top24)<br/>
-<sup><a name="c23">23</a></sup> n/a. &ldquo;Lindsey Graham on Trump's Syria decision: 'He's putting the nation at risk'&rdquo;, _axios.com_, 09 October 2019, https://www.axios.com/lindsey-graham-donald-trump-syria-withdrawal-e103594e-2417-4355-a5af-46a0f197e838.html [^](#top23)<br/>
-<sup><a name="c22">22</a></sup> n/a. &ldquo;John Kasich Calls Out Republican Silence on Impeachment&rdquo;, _mediaite.com_, 08 October 2019, https://www.mediaite.com/news/john-kasich-calls-out-republican-silence-says-impeachment-inquiry-fair-and-right-thing-to-do-for-america/ [^](#top22)<br/>
+<sup><a name="c39">39</a></sup> n/a. &ldquo;Lindsey Graham says he's open to other evidence on Trump impeachment&rdquo;, _axios.com_, 20 October 2019, https://www.axios.com/graham-hbo-interview-impeachment-trump-1375b703-f723-4a2c-9e15-7366ee25c55b.html [^](#top39)<br/>
+<sup><a name="c38">38</a></sup> n/a. &ldquo;Exclusive: Mitt Romney’s Trump indictment&rdquo;, _axios.com_, 20 October 2019, https://www.axios.com/mitt-romney-axios-hbo-donald-trump-indictment-c9ecd74f-d9c9-4988-9480-37352ed78607.html [^](#top38)<br/>
+<sup><a name="c37">37</a></sup> Lanard, Noah. &ldquo;A Small But Growing Group of Republicans: Trump Is Forcing Us to “Defend the Indefensible” – Mother Jones&rdquo;, _Mother Jones_, 19 October 2019, https://www.motherjones.com/politics/2019/10/republicans-cracking-trump-scandals-washington-post/ [^](#top37)<br/>
+<sup><a name="c36">36</a></sup> n/a. &ldquo;‘Final straw’: GOP ex-Ohio Gov. Kasich supports impeachment&rdquo;, _apnews.com_, 18 October 2019, https://apnews.com/0a2326173c884c8fb8124a4e204b632b [^](#top36)<br/>
+<sup><a name="c35">35</a></sup> Debonis, Mike. &ldquo;‘I didn’t take this job to keep it’: GOP Rep. Rooney hints he’s open to impeachment&rdquo;, _Washington Post_, 18 October 2019, https://www.washingtonpost.com/powerpost/i-didnt-take-this-job-to-keep-it-gop-rep-rooney-hints-hes-open-to-impeachment/2019/10/18/3958e684-f1d0-11e9-b648-76bcf86eb67e_story.html#click=https://t.co/XUyhMtHGoU [^](#top35)<br/>
+<sup><a name="c34">34</a></sup> Connolly, Griffin. &ldquo;Some Republicans inch closer to Trump impeachment after Mulvaney comments&rdquo;, _Roll Call_, 18 October 2019, https://www.rollcall.com/news/congress/republicans-inch-closer-trump-impeachment-mulvaney-comments [^](#top34)<br/>
+<sup><a name="c33">33</a></sup> Pilkington, Ed. &ldquo;General discontent: how the president's military men turned on Trump&rdquo;, _the Guardian_, 18 October 2019, https://www.theguardian.com/us-news/2019/oct/18/generals-donald-trump-military-criticism [^](#top33)<br/>
+<sup><a name="c32">32</a></sup> Editor, Overnight. &ldquo;‘This Is Really Bad’: Rick Santorum Has An Ominous 2020 Warning For Trump&rdquo;, _HuffPost_, 17 October 2019, https://www.huffpost.com/entry/rick-santorum-donald-trump-2020_n_5da94972e4b0e71d65b67f06 [^](#top32)<br/>
+<sup><a name="c31">31</a></sup> n/a. &ldquo;GOP senators criticize Trump over Syria comments and policy&rdquo;, _cbsnews.com_, 16 October 2019, https://www.cbsnews.com/news/gop-senators-criticize-trump-over-syria-comments-and-policy/ [^](#top31)<br/>
+<sup><a name="c30">30</a></sup> @realDonaldTrump. &ldquo;Donald J. Trump on Twitter&rdquo;, _Twitter_, 15 October 2019, https://twitter.com/realDonaldTrump/status/1184129825231069184 [^](#top30)<br/>
+<sup><a name="c29">29</a></sup> Marshall, Abbey. &ldquo;Larry Hogan comes out in support of Trump impeachment inquiry&rdquo;, _Politico_, 11 October 2019, https://www.politico.com/news/2019/10/11/larry-hogan-trump-impeachment-044378 [^](#top29)<br/>
+<sup><a name="c28">28</a></sup> Kelly, Brian. &ldquo;Metro East Congressman John Shimkus pulls Trump support after Syria decision&rdquo;, _Kmox-Am_, 11 October 2019, https://kmox.radio.com/articles/news/trump-loses-metro-east-ally-john-shimkus-over-syria-decision [^](#top28)<br/>
+<sup><a name="c27">27</a></sup> n/a. &ldquo;New Statement from Checks and Balances on President Trump’s Abuse of Office&rdquo;, _checks-and-balances.org_, 10 October 2019, https://checks-and-balances.org/new-statement-from-checks-and-balances-on-president-trumps-abuse-of-office/ [^](#top27)<br/>
+<sup><a name="c26">26</a></sup> Will, George F.. &ldquo;The spiraling Trump adds self-impeachment to his repertoire&rdquo;, _Washington Post_, 10 October 2019, https://www.washingtonpost.com/opinions/the-spiraling-president-adds-self-impeachment-to-his-repertoire/2019/10/10/8c1a739c-eb7c-11e9-9c6d-436a0df4f31d_story.html [^](#top26)<br/>
+<sup><a name="c25">25</a></sup> Sltrib.Com, Bwood. &ldquo;Mitt Romney says everybody knows it ‘is wrong’ to ask a foreign government to probe a political rival&rdquo;, _The Salt Lake Tribune_, 10 October 2019, https://www.sltrib.com/news/politics/2019/10/10/mitt-romney-says-he-hasnt/ [^](#top25)<br/>
+<sup><a name="c24">24</a></sup> n/a. &ldquo;Lindsey Graham on Trump's Syria decision: 'He's putting the nation at risk'&rdquo;, _axios.com_, 09 October 2019, https://www.axios.com/lindsey-graham-donald-trump-syria-withdrawal-e103594e-2417-4355-a5af-46a0f197e838.html [^](#top24)<br/>
+<sup><a name="c23">23</a></sup> n/a. &ldquo;John Kasich Calls Out Republican Silence on Impeachment&rdquo;, _mediaite.com_, 08 October 2019, https://www.mediaite.com/news/john-kasich-calls-out-republican-silence-says-impeachment-inquiry-fair-and-right-thing-to-do-for-america/ [^](#top23)<br/>
+<sup><a name="c22">22</a></sup> Sanchez, Yvonne Wingett. &ldquo;Sen. Martha McSally's tone on impeachment inquiry is evolving&rdquo;, _azcentral_, 07 October 2019, https://www.azcentral.com/story/news/politics/arizona/2019/10/08/donald-trump-impeachment-inquiry-sen-martha-mcsallys-tone-is-evolving/3910517002/ [^](#top22)<br/>
 <sup><a name="c21">21</a></sup> Rowland, Darrel. &ldquo;Ohio GOP Sen. Rob Portman: Trump wrong to seek help from Ukraine, China&rdquo;, _The Columbus Dispatch_, 07 October 2019, https://www.dispatch.com/news/20191007/ohio-gop-sen-rob-portman-trump-wrong-to-seek-help-from-ukraine-china [^](#top21)<br/>
 <sup><a name="c20">20</a></sup> Wagner, Paul. &ldquo;Ridge Wants Tempers Turned Down During Impeachment Inquiry&rdquo;, _erienewsnow.com_, 07 October 2019, https://www.erienewsnow.com/story/41150700/ridge-wants-tempers-turned-down-during-impeachment-inquiry [^](#top20)<br/>
 <sup><a name="c19">19</a></sup> O’Brien, Connor. &ldquo;Joe Walsh says 'traitor' Trump 'deserves to be impeached'&rdquo;, _Politico_, 06 October 2019, https://www.politico.com/news/2019/10/06/joe-walsh-trump-impeached-sanford-032524 [^](#top19)<br/>
