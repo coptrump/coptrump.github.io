@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://coptrump.com/atom.xml</id>
   <title>Country Over Party | COPtrump.com</title>
-  <updated>2019-10-22T08:05:47.264462+00:00</updated>
+  <updated>2019-10-22T19:23:21.901610+00:00</updated>
   <author>
     <name>COP Trump</name>
     <email>COP@COPtrump.com</email>
@@ -14,9 +14,17 @@
   <logo>country-over-party-cropped.jpg</logo>
   <subtitle>Republican legislators, cabinet/White House officials, and prominent conservatives/veterans bravely speaking out</subtitle>
   <entry>
+    <id>https://twitter.com/MichaelSteele/status/1186670602117156871</id>
+    <title>Fmr. Lt. Gov. Michael Steele (R-MD): “@realDonaldTrump and @LindseyGrahamSC this [attached photo of a black man being lynched] is a lynching. Trump: this is not happening to you and it’s pathetic that you act like you’re such a victim; but it did happen to 147 black people in your state Lindsey”</title>
+    <updated>2019-10-22T19:23:21.905596+00:00</updated>
+    <content>“&amp;lt;strong&amp;gt;@realDonaldTrump and @LindseyGrahamSC this [attached photo of a black man being lynched] is a lynching. Trump: this is not happening to you and it’s pathetic that you act like you’re such a victim; but it did happen to 147 black people in your state Lindsey&amp;lt;/strong&amp;gt;. ’A lynching in every sense’? You should know better.”&amp;lt;strong&amp;gt; [MD]</content>
+    <link href="https://twitter.com/MichaelSteele/status/1186670602117156871" rel="alternate"/>
+    <published>2019-10-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.axios.com/graham-hbo-interview-impeachment-trump-1375b703-f723-4a2c-9e15-7366ee25c55b.html</id>
     <title>Sen. Lindsey Graham (R-SC): Supports gathering facts</title>
-    <updated>2019-10-22T08:05:47.268458+00:00</updated>
+    <updated>2019-10-22T19:23:21.905596+00:00</updated>
     <content>“Sure. I mean ... show me something that ... is a crime,” Graham said. “If you could show me that, you know, Trump actually was engaging in a quid pro quo, outside the phone call, that would be very disturbing.” He followed “&amp;lt;strong&amp;gt;as to asking China to look into Biden, that was stupid&amp;lt;/strong&amp;gt;. ... Bad idea.”&amp;lt;strong&amp;gt; [SC / PVI: R+8 / Term ends: 2021]</content>
     <link href="https://www.axios.com/graham-hbo-interview-impeachment-trump-1375b703-f723-4a2c-9e15-7366ee25c55b.html" rel="alternate"/>
     <published>2019-10-20T00:00:00+00:00</published>
@@ -24,7 +32,7 @@
   <entry>
     <id>https://www.axios.com/mitt-romney-axios-hbo-donald-trump-indictment-c9ecd74f-d9c9-4988-9480-37352ed78607.html</id>
     <title>Sen. Mitt Romney (R-UT): “We certainly can't have presidents asking foreign countries to provide something of political value. That is, after all, against the law”</title>
-    <updated>2019-10-22T08:05:47.267458+00:00</updated>
+    <updated>2019-10-22T19:23:21.905596+00:00</updated>
     <content>“&amp;lt;strong&amp;gt;We certainly can't have presidents asking foreign countries to provide something of political value. That is, after all, against the law&amp;lt;/strong&amp;gt;.” Romney said.&amp;lt;strong&amp;gt; [UT / PVI: R+20 / Term ends: 2025]</content>
     <link href="https://www.axios.com/mitt-romney-axios-hbo-donald-trump-indictment-c9ecd74f-d9c9-4988-9480-37352ed78607.html" rel="alternate"/>
     <published>2019-10-20T00:00:00+00:00</published>
@@ -32,7 +40,7 @@
   <entry>
     <id>https://www.motherjones.com/politics/2019/10/republicans-cracking-trump-scandals-washington-post/</id>
     <title>Rep. Mike Simpson (R-ID): I don’t know if I can do that!</title>
-    <updated>2019-10-22T08:05:47.267458+00:00</updated>
+    <updated>2019-10-22T19:23:21.905596+00:00</updated>
     <content>“You have to go out and try to defend [Trump],” Simpson said. “Well, &amp;lt;strong&amp;gt;I don’t know if I can do that!&amp;lt;/strong&amp;gt;”&amp;lt;strong&amp;gt; [ID-02 / PVI: R+17 / Term ends: 2021]</content>
     <link href="https://www.motherjones.com/politics/2019/10/republicans-cracking-trump-scandals-washington-post/" rel="alternate"/>
     <published>2019-10-19T00:00:00+00:00</published>
@@ -40,15 +48,15 @@
   <entry>
     <id>https://apnews.com/0a2326173c884c8fb8124a4e204b632b</id>
     <title>Fmr. Gov. John Kasich (R-OH): Supports impeachment</title>
-    <updated>2019-10-22T08:05:47.267458+00:00</updated>
-    <content>Kasich says &amp;lt;strong&amp;gt;he supports impeaching the president&amp;lt;/strong&amp;gt;.  Kasich said the “final straw” for him was when acting White House chief of staff Mick Mulvaney acknowledged Thursday that Trump’s decision to hold up military aid to Ukraine was linked to his demand that Kyiv investigate the Democratic National Committee and the 2016 U.S. presidential campaign.&amp;lt;strong&amp;gt; [OH / PVI: R+3]</content>
+    <updated>2019-10-22T19:23:21.905596+00:00</updated>
+    <content>Kasich says &amp;lt;strong&amp;gt;he supports impeaching the president&amp;lt;/strong&amp;gt;.  Kasich said the “final straw” for him was when acting White House chief of staff Mick Mulvaney acknowledged Thursday that Trump’s decision to hold up military aid to Ukraine was linked to his demand that Kyiv investigate the Democratic National Committee and the 2016 U.S. presidential campaign.&amp;lt;strong&amp;gt; [OH]</content>
     <link href="https://apnews.com/0a2326173c884c8fb8124a4e204b632b" rel="alternate"/>
     <published>2019-10-18T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.washingtonpost.com/powerpost/i-didnt-take-this-job-to-keep-it-gop-rep-rooney-hints-hes-open-to-impeachment/2019/10/18/3958e684-f1d0-11e9-b648-76bcf86eb67e_story.html#click=https://t.co/XUyhMtHGoU</id>
     <title>Rep. Francis Rooney (R-FL): Supports gathering facts</title>
-    <updated>2019-10-22T08:05:47.267458+00:00</updated>
+    <updated>2019-10-22T19:23:21.905596+00:00</updated>
     <content>“But I think &amp;lt;strong&amp;gt;we need to get all the facts on the table&amp;lt;/strong&amp;gt;,” Rooney said.&amp;lt;strong&amp;gt; [FL-19 / PVI: R+13 / Retiring]</content>
     <link href="https://www.washingtonpost.com/powerpost/i-didnt-take-this-job-to-keep-it-gop-rep-rooney-hints-hes-open-to-impeachment/2019/10/18/3958e684-f1d0-11e9-b648-76bcf86eb67e_story.html#click=https://t.co/XUyhMtHGoU" rel="alternate"/>
     <published>2019-10-18T00:00:00+00:00</published>
@@ -56,7 +64,7 @@
   <entry>
     <id>https://www.washingtonpost.com/opinions/mitch-mcconnell-withdrawing-from-syria-is-a-grave-mistake/2019/10/18/c0a811a8-f1cd-11e9-89eb-ec56cd414732_story.html</id>
     <title>Senate Majority Leader Mitch McConnell (R-KY	): “Withdrawing U.S. forces from Syria is a grave strategic mistake. It will leave the American people and homeland less safe, embolden our enemies, and weaken important alliances”</title>
-    <updated>2019-10-22T08:05:47.267458+00:00</updated>
+    <updated>2019-10-22T19:23:21.905596+00:00</updated>
     <content>“&amp;lt;strong&amp;gt;Withdrawing U.S. forces from Syria is a grave strategic mistake. It will leave the American people and homeland less safe, embolden our enemies, and weaken important alliances&amp;lt;/strong&amp;gt;,” McConnell wrote.&amp;lt;strong&amp;gt; [KY	 / PVI: R+15 / Term ends: 2021]</content>
     <link href="https://www.washingtonpost.com/opinions/mitch-mcconnell-withdrawing-from-syria-is-a-grave-mistake/2019/10/18/c0a811a8-f1cd-11e9-89eb-ec56cd414732_story.html" rel="alternate"/>
     <published>2019-10-18T00:00:00+00:00</published>
@@ -64,7 +72,7 @@
   <entry>
     <id>https://www.militarytimes.com/news/your-military/2019/10/18/former-socom-commander-mcraven-latest-former-military-leader-to-blast-trump-over-syria/</id>
     <title>Retd. Adm. William H. McRaven: “The fate of our Republic depends upon it”</title>
-    <updated>2019-10-22T08:05:47.267458+00:00</updated>
+    <updated>2019-10-22T19:23:21.905596+00:00</updated>
     <content>“If this president doesn’t demonstrate the leadership that America needs, both domestically and abroad, then it is time for a new person in the Oval Office — Republican, Democrat or independent — the sooner, the better,” McRaven wrote. “&amp;lt;strong&amp;gt;The fate of our Republic depends upon it&amp;lt;/strong&amp;gt;.”&amp;lt;strong&amp;gt;</content>
     <link href="https://www.militarytimes.com/news/your-military/2019/10/18/former-socom-commander-mcraven-latest-former-military-leader-to-blast-trump-over-syria/" rel="alternate"/>
     <published>2019-10-18T00:00:00+00:00</published>
@@ -72,7 +80,7 @@
   <entry>
     <id>https://www.rollcall.com/news/congress/republicans-inch-closer-trump-impeachment-mulvaney-comments</id>
     <title>Sen. Lisa Murkowski (R-AK): “You don’t hold up foreign aid that we had previously appropriated for a political initiative. Period”</title>
-    <updated>2019-10-22T08:05:47.267458+00:00</updated>
+    <updated>2019-10-22T19:23:21.905596+00:00</updated>
     <content>Murkowski condemned the administration’s alleged conversations with Ukraine after learning of Mulvaney’s comments. “&amp;lt;strong&amp;gt;You don’t hold up foreign aid that we had previously appropriated for a political initiative. Period&amp;lt;/strong&amp;gt;.”&amp;lt;strong&amp;gt; [AK / PVI: R+9 / Term ends: 2023]</content>
     <link href="https://www.rollcall.com/news/congress/republicans-inch-closer-trump-impeachment-mulvaney-comments" rel="alternate"/>
     <published>2019-10-18T00:00:00+00:00</published>
@@ -80,7 +88,7 @@
   <entry>
     <id>https://www.theguardian.com/us-news/2019/oct/18/generals-donald-trump-military-criticism</id>
     <title>Fmr. Trump Defense Sec. Jim Mattis (I): “I earned my spurs on the battlefield; Donald Trump earned his spurs in a letter from a doctor”</title>
-    <updated>2019-10-22T08:05:47.267458+00:00</updated>
+    <updated>2019-10-22T19:23:21.905596+00:00</updated>
     <content>“&amp;lt;strong&amp;gt;I earned my spurs on the battlefield; Donald Trump earned his spurs in a letter from a doctor&amp;lt;/strong&amp;gt;,” Mattis said.&amp;lt;strong&amp;gt;</content>
     <link href="https://www.theguardian.com/us-news/2019/oct/18/generals-donald-trump-military-criticism" rel="alternate"/>
     <published>2019-10-18T00:00:00+00:00</published>
@@ -88,23 +96,23 @@
   <entry>
     <id>https://www.huffpost.com/entry/rick-santorum-donald-trump-2020_n_5da94972e4b0e71d65b67f06</id>
     <title>Fmr. Sen. Rick Santorum (R-PA): They’re actually thinking about whether they’re going to vote for this man</title>
-    <updated>2019-10-22T08:05:47.267458+00:00</updated>
-    <content>“[Trump] has really stepped in it. This was a poor decision, this is having really startling ― even startling to him ― consequences.”  Santorum said. “This is really bad for the president come November of 2020 and I have been hearing from so many Republicans who love Donald Trump who are telling me for the first time they’re taking a step back and &amp;lt;strong&amp;gt;they’re actually thinking about whether they’re going to vote for this man&amp;lt;/strong&amp;gt;. I’ve heard this from people I’m stunned to hear it from.”&amp;lt;strong&amp;gt; [PA / PVI: EVEN]</content>
+    <updated>2019-10-22T19:23:21.905596+00:00</updated>
+    <content>“[Trump] has really stepped in it. This was a poor decision, this is having really startling ― even startling to him ― consequences.”  Santorum said. “This is really bad for the president come November of 2020 and I have been hearing from so many Republicans who love Donald Trump who are telling me for the first time they’re taking a step back and &amp;lt;strong&amp;gt;they’re actually thinking about whether they’re going to vote for this man&amp;lt;/strong&amp;gt;. I’ve heard this from people I’m stunned to hear it from.”&amp;lt;strong&amp;gt; [PA]</content>
     <link href="https://www.huffpost.com/entry/rick-santorum-donald-trump-2020_n_5da94972e4b0e71d65b67f06" rel="alternate"/>
     <published>2019-10-17T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.cbsnews.com/news/gop-senators-criticize-trump-over-syria-comments-and-policy/</id>
     <title>Fmr. Sen. Bob Corker (R-TN): “Sloppy, precipitous phone call that is going to end up killing a lot of people”</title>
-    <updated>2019-10-22T08:05:47.267458+00:00</updated>
-    <content>Corker described Trump's initial call with Erdogan as a “&amp;lt;strong&amp;gt;sloppy, precipitous phone call that is going to end up killing a lot of people&amp;lt;/strong&amp;gt;” and said that Trump basically “gave them the green light” during the phone call he had with Erdogan earlier this month. “&amp;lt;strong&amp;gt;I don't know how any leader could have made this type of decision, especially over a phone call.&amp;lt;/strong&amp;gt;” He went on to say, “&amp;lt;strong&amp;gt;It's hard for me to understand how a president could have such disregard for things that over time will come back to haunt us.&amp;lt;/strong&amp;gt;”&amp;lt;strong&amp;gt; [TN / PVI: R+14]</content>
+    <updated>2019-10-22T19:23:21.904596+00:00</updated>
+    <content>Corker described Trump's initial call with Erdogan as a “&amp;lt;strong&amp;gt;sloppy, precipitous phone call that is going to end up killing a lot of people&amp;lt;/strong&amp;gt;” and said that Trump basically “gave them the green light” during the phone call he had with Erdogan earlier this month. “&amp;lt;strong&amp;gt;I don't know how any leader could have made this type of decision, especially over a phone call.&amp;lt;/strong&amp;gt;” He went on to say, “&amp;lt;strong&amp;gt;It's hard for me to understand how a president could have such disregard for things that over time will come back to haunt us.&amp;lt;/strong&amp;gt;”&amp;lt;strong&amp;gt; [TN]</content>
     <link href="https://www.cbsnews.com/news/gop-senators-criticize-trump-over-syria-comments-and-policy/" rel="alternate"/>
     <published>2019-10-16T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://twitter.com/realDonaldTrump/status/1184129825231069184</id>
     <title>Pres. Donald Trump (R): Supports impeachment</title>
-    <updated>2019-10-22T08:05:47.267458+00:00</updated>
+    <updated>2019-10-22T19:23:21.904596+00:00</updated>
     <content>“Just out: MEDIAN HOUSEHOLD INCOME IS AT THE HIGHEST POINT EVER, EVER, EVER! How about saying it this way, IN THE HISTORY OF OUR COUNTRY! Also, MORE PEOPLE WORKING TODAY IN THE USA THAN AT ANY TIME IN HISTORY! Tough numbers for the Radical Left Democrats to beat! &amp;lt;strong&amp;gt;Impeach the Pres.&amp;lt;/strong&amp;gt;”&amp;lt;strong&amp;gt; [Term ends: 2021]</content>
     <link href="https://twitter.com/realDonaldTrump/status/1184129825231069184" rel="alternate"/>
     <published>2019-10-15T00:00:00+00:00</published>
@@ -112,7 +120,7 @@
   <entry>
     <id>https://www.politico.com/news/2019/10/11/larry-hogan-trump-impeachment-044378</id>
     <title>Gov. Larry Hogan (R-MD): Supports an inquiry</title>
-    <updated>2019-10-22T08:05:47.267458+00:00</updated>
+    <updated>2019-10-22T19:23:21.904596+00:00</updated>
     <content>“&amp;lt;strong&amp;gt;I don’t see any other way to get the facts,&amp;lt;/strong&amp;gt;” Hogan said.&amp;lt;strong&amp;gt; [MD / PVI: D+12 / Term ends: 2023]</content>
     <link href="https://www.politico.com/news/2019/10/11/larry-hogan-trump-impeachment-044378" rel="alternate"/>
     <published>2019-10-11T00:00:00+00:00</published>
@@ -120,7 +128,7 @@
   <entry>
     <id>https://kmox.radio.com/articles/news/trump-loses-metro-east-ally-john-shimkus-over-syria-decision</id>
     <title>Rep. John Shimkus (R-IL): “Pull my name off the 'I support Donald Trump' list,”</title>
-    <updated>2019-10-22T08:05:47.267458+00:00</updated>
+    <updated>2019-10-22T19:23:21.904596+00:00</updated>
     <content>“&amp;lt;strong&amp;gt;Pull my name off the 'I support Donald Trump' list,&amp;lt;/strong&amp;gt;” Shimkus said.&amp;lt;strong&amp;gt; [IL-15 / PVI: R+21 / Retiring]</content>
     <link href="https://kmox.radio.com/articles/news/trump-loses-metro-east-ally-john-shimkus-over-syria-decision" rel="alternate"/>
     <published>2019-10-11T00:00:00+00:00</published>
@@ -128,7 +136,7 @@
   <entry>
     <id>https://checks-and-balances.org/new-statement-from-checks-and-balances-on-president-trumps-abuse-of-office/</id>
     <title>Attorney George T. Conway III (I) &amp; 15 other members of Checks and Balances: Supports an inquiry</title>
-    <updated>2019-10-22T08:05:47.267458+00:00</updated>
+    <updated>2019-10-22T19:23:21.904596+00:00</updated>
     <content>“&amp;lt;strong&amp;gt;These acts, based on what has been revealed to date, are a legitimate basis for an expeditious impeachment investigation,&amp;lt;/strong&amp;gt;”&amp;lt;strong&amp;gt;</content>
     <link href="https://checks-and-balances.org/new-statement-from-checks-and-balances-on-president-trumps-abuse-of-office/" rel="alternate"/>
     <published>2019-10-10T00:00:00+00:00</published>
@@ -136,7 +144,7 @@
   <entry>
     <id>https://www.washingtonpost.com/opinions/the-spiraling-president-adds-self-impeachment-to-his-repertoire/2019/10/10/8c1a739c-eb7c-11e9-9c6d-436a0df4f31d_story.html</id>
     <title>Conservative commentator George Will (U): The refusal is itself an impeachable offense.</title>
-    <updated>2019-10-22T08:05:47.267458+00:00</updated>
+    <updated>2019-10-22T19:23:21.904596+00:00</updated>
     <content>“[Trump] has issued a categorical refusal to supply witnesses and documents pertinent to the House investigation of whether he committed an impeachable offense regarding Ukraine. This refusal, which is analogous to an invocation of the Fifth Amendment protection against self-incrimination, justifies an inference of guilt. Worse, this refusal attacks our constitutional regime. So, &amp;lt;strong&amp;gt;the refusal is itself an impeachable offense.&amp;lt;/strong&amp;gt;”&amp;lt;strong&amp;gt;</content>
     <link href="https://www.washingtonpost.com/opinions/the-spiraling-president-adds-self-impeachment-to-his-repertoire/2019/10/10/8c1a739c-eb7c-11e9-9c6d-436a0df4f31d_story.html" rel="alternate"/>
     <published>2019-10-10T00:00:00+00:00</published>
@@ -144,7 +152,7 @@
   <entry>
     <id>https://www.sltrib.com/news/politics/2019/10/10/mitt-romney-says-he-hasnt/</id>
     <title>Sen. Mitt Romney (R-UT): “Brazen and unprecedented”</title>
-    <updated>2019-10-22T08:05:47.267458+00:00</updated>
+    <updated>2019-10-22T19:23:21.904596+00:00</updated>
     <content>Romney said Trump’s “&amp;lt;strong&amp;gt;brazen and unprecedented&amp;lt;/strong&amp;gt;” actions were “&amp;lt;strong&amp;gt;wrong and appalling,&amp;lt;/strong&amp;gt;” and “&amp;lt;strong&amp;gt;troubling in the extreme.&amp;lt;/strong&amp;gt;”&amp;lt;strong&amp;gt; [UT / PVI: R+20 / Term ends: 2025]</content>
     <link href="https://www.sltrib.com/news/politics/2019/10/10/mitt-romney-says-he-hasnt/" rel="alternate"/>
     <published>2019-10-10T00:00:00+00:00</published>
@@ -152,7 +160,7 @@
   <entry>
     <id>https://www.axios.com/lindsey-graham-donald-trump-syria-withdrawal-e103594e-2417-4355-a5af-46a0f197e838.html</id>
     <title>Sen. Lindsey Graham (R-SC): He's putting his presidency at risk,</title>
-    <updated>2019-10-22T08:05:47.267458+00:00</updated>
+    <updated>2019-10-22T19:23:21.904596+00:00</updated>
     <content>“I think [Trump’s] putting the nation at risk, and I think &amp;lt;strong&amp;gt;he's putting his presidency at risk,&amp;lt;/strong&amp;gt;” Graham said. “It's not proper for the president to abandon the Kurds, turn northern Syria over to Iran eventually, and be responsible for the breakout of thousands of ISIS fighters.”&amp;lt;strong&amp;gt; [SC / PVI: R+8 / Term ends: 2021]</content>
     <link href="https://www.axios.com/lindsey-graham-donald-trump-syria-withdrawal-e103594e-2417-4355-a5af-46a0f197e838.html" rel="alternate"/>
     <published>2019-10-09T00:00:00+00:00</published>
@@ -160,15 +168,15 @@
   <entry>
     <id>https://www.mediaite.com/news/john-kasich-calls-out-republican-silence-says-impeachment-inquiry-fair-and-right-thing-to-do-for-america/</id>
     <title>Fmr. Gov. John Kasich (R-OH): Supports an inquiry</title>
-    <updated>2019-10-22T08:05:47.267458+00:00</updated>
-    <content>An impeachment inquiry is “&amp;lt;strong&amp;gt;the fair and right thing to do for America,&amp;lt;/strong&amp;gt;” Kasich said.&amp;lt;strong&amp;gt; [OH / PVI: R+3]</content>
+    <updated>2019-10-22T19:23:21.904596+00:00</updated>
+    <content>An impeachment inquiry is “&amp;lt;strong&amp;gt;the fair and right thing to do for America,&amp;lt;/strong&amp;gt;” Kasich said.&amp;lt;strong&amp;gt; [OH]</content>
     <link href="https://www.mediaite.com/news/john-kasich-calls-out-republican-silence-says-impeachment-inquiry-fair-and-right-thing-to-do-for-america/" rel="alternate"/>
     <published>2019-10-08T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.azcentral.com/story/news/politics/arizona/2019/10/08/donald-trump-impeachment-inquiry-sen-martha-mcsallys-tone-is-evolving/3910517002/</id>
     <title>Sen. Martha McSally (R-AZ): Supports gathering facts</title>
-    <updated>2019-10-22T08:05:47.267458+00:00</updated>
+    <updated>2019-10-22T19:23:21.904596+00:00</updated>
     <content>She wants the Senate Intelligence Committee &amp;lt;strong&amp;gt;to look into the questions&amp;lt;/strong&amp;gt;, McSally said.&amp;lt;strong&amp;gt; [AZ / PVI: R+5 / Term ends: 2021]</content>
     <link href="https://www.azcentral.com/story/news/politics/arizona/2019/10/08/donald-trump-impeachment-inquiry-sen-martha-mcsallys-tone-is-evolving/3910517002/" rel="alternate"/>
     <published>2019-10-07T00:00:00+00:00</published>
@@ -176,7 +184,7 @@
   <entry>
     <id>https://www.dispatch.com/news/20191007/ohio-gop-sen-rob-portman-trump-wrong-to-seek-help-from-ukraine-china</id>
     <title>Sen. Rob Portman (R-OH): Supports gathering facts</title>
-    <updated>2019-10-22T08:05:47.267458+00:00</updated>
+    <updated>2019-10-22T19:23:21.904596+00:00</updated>
     <content>“&amp;lt;strong&amp;gt;Everything should be looked at,&amp;lt;/strong&amp;gt;” Portman said.&amp;lt;strong&amp;gt; [OH / PVI: R+3 / Term ends: 2023]</content>
     <link href="https://www.dispatch.com/news/20191007/ohio-gop-sen-rob-portman-trump-wrong-to-seek-help-from-ukraine-china" rel="alternate"/>
     <published>2019-10-07T00:00:00+00:00</published>
@@ -184,23 +192,23 @@
   <entry>
     <id>https://www.erienewsnow.com/story/41150700/ridge-wants-tempers-turned-down-during-impeachment-inquiry</id>
     <title>Fmr. Gov. Tom Ridge (R-PA): Supports gathering facts</title>
-    <updated>2019-10-22T08:05:47.267458+00:00</updated>
-    <content>Ridge said &amp;lt;strong&amp;gt;the investigation is needed&amp;lt;/strong&amp;gt; to figure out the facts and what really happened involving the president.&amp;lt;strong&amp;gt; [PA / PVI: EVEN]</content>
+    <updated>2019-10-22T19:23:21.904596+00:00</updated>
+    <content>Ridge said &amp;lt;strong&amp;gt;the investigation is needed&amp;lt;/strong&amp;gt; to figure out the facts and what really happened involving the president.&amp;lt;strong&amp;gt; [PA]</content>
     <link href="https://www.erienewsnow.com/story/41150700/ridge-wants-tempers-turned-down-during-impeachment-inquiry" rel="alternate"/>
     <published>2019-10-07T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.politico.com/news/2019/10/06/joe-walsh-trump-impeached-sanford-032524</id>
     <title>Fmr. Rep. Joe Walsh (R-IL): Supports an inquiry</title>
-    <updated>2019-10-22T08:05:47.267458+00:00</updated>
-    <content>Walsh says 'traitor' Trump '&amp;lt;strong&amp;gt;deserves to be impeached.&amp;lt;/strong&amp;gt;'&amp;lt;strong&amp;gt; [IL-08 / PVI: D+8]</content>
+    <updated>2019-10-22T19:23:21.904596+00:00</updated>
+    <content>Walsh says 'traitor' Trump '&amp;lt;strong&amp;gt;deserves to be impeached.&amp;lt;/strong&amp;gt;'&amp;lt;strong&amp;gt; [IL-08]</content>
     <link href="https://www.politico.com/news/2019/10/06/joe-walsh-trump-impeached-sanford-032524" rel="alternate"/>
     <published>2019-10-06T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.omaha.com/news/nation/morton/americans-don-t-look-to-chinese-commies-for-the-truth/article_d229258d-0d9d-5fdf-800a-7c74f6f5c253.html</id>
     <title>Sen. Ben Sasse (R-NE): “Americans don’t look to Chinese commies for the truth,”</title>
-    <updated>2019-10-22T08:05:47.266456+00:00</updated>
+    <updated>2019-10-22T19:23:21.904596+00:00</updated>
     <content>“&amp;lt;strong&amp;gt;Americans don’t look to Chinese commies for the truth,&amp;lt;/strong&amp;gt;” Sasse said. Sasse has previously said there is “&amp;lt;strong&amp;gt;terrible stuff&amp;lt;/strong&amp;gt;” in that rough transcript of the call between Trump and Zelensky.&amp;lt;strong&amp;gt; [NE / PVI: R+14 / Term ends: 2021]</content>
     <link href="https://www.omaha.com/news/nation/morton/americans-don-t-look-to-chinese-commies-for-the-truth/article_d229258d-0d9d-5fdf-800a-7c74f6f5c253.html" rel="alternate"/>
     <published>2019-10-05T00:00:00+00:00</published>
@@ -208,7 +216,7 @@
   <entry>
     <id>https://bangordailynews.com/2019/10/05/politics/collins-calls-trumps-invitation-to-china-completely-inappropriate/?amp=1</id>
     <title>Sen. Susan Collins (R-ME): “It’s completely inappropriate.”</title>
-    <updated>2019-10-22T08:05:47.266456+00:00</updated>
+    <updated>2019-10-22T19:23:21.904596+00:00</updated>
     <content>“I thought the president made a big mistake by asking China to get involved in investigating a political opponent,” Collins said. “&amp;lt;strong&amp;gt;It’s completely inappropriate.&amp;lt;/strong&amp;gt;”&amp;lt;strong&amp;gt; [ME / PVI: D+3 / Term ends: 2021]</content>
     <link href="https://bangordailynews.com/2019/10/05/politics/collins-calls-trumps-invitation-to-china-completely-inappropriate/?amp=1" rel="alternate"/>
     <published>2019-10-05T00:00:00+00:00</published>
@@ -216,7 +224,7 @@
   <entry>
     <id>https://www.washingtonpost.com/graphics/2019/politics/impeachment-support-house-democrats/</id>
     <title>Rep. Jaime  Herrera Beutler (R-WA): Supports gathering facts</title>
-    <updated>2019-10-22T08:05:47.266456+00:00</updated>
+    <updated>2019-10-22T19:23:21.904596+00:00</updated>
     <content>“&amp;lt;strong&amp;gt;There are questions that need to be answered&amp;lt;/strong&amp;gt; and Congress must continue to perform its oversight role, but none of that needs to happen under the banner of an impeachment inquiry,” Herrera Beutler said.&amp;lt;strong&amp;gt; [WA-03 / PVI: R+4 / Term ends: 2021]</content>
     <link href="https://www.washingtonpost.com/graphics/2019/politics/impeachment-support-house-democrats/" rel="alternate"/>
     <published>2019-10-04T00:00:00+00:00</published>
@@ -224,7 +232,7 @@
   <entry>
     <id>https://www.cnbc.com/2019/10/04/trump-impeachment-where-senators-running-in-2020-elections-stand.html</id>
     <title>Sen. Cory Gardner (R-CO): Supports gathering facts</title>
-    <updated>2019-10-22T08:05:47.266456+00:00</updated>
+    <updated>2019-10-22T19:23:21.904596+00:00</updated>
     <content>“I support the Senate Intelligence Committee’s on-going bipartisan review to &amp;lt;strong&amp;gt;gather all of the facts,&amp;lt;/strong&amp;gt;” Gardner said.&amp;lt;strong&amp;gt; [CO / PVI: D+1 / Term ends: 2021]</content>
     <link href="https://www.cnbc.com/2019/10/04/trump-impeachment-where-senators-running-in-2020-elections-stand.html" rel="alternate"/>
     <published>2019-10-04T00:00:00+00:00</published>
@@ -232,7 +240,7 @@
   <entry>
     <id>https://www.apnews.com/abe2a09df6eb44f98f24e25501f250d8</id>
     <title>Rep. Adam Kinzinger (R-IL): Supports gathering facts</title>
-    <updated>2019-10-22T08:05:47.266456+00:00</updated>
+    <updated>2019-10-22T19:23:21.904596+00:00</updated>
     <content>“&amp;lt;strong&amp;gt;I want to know what happened,&amp;lt;/strong&amp;gt;” Kinzinger said.&amp;lt;strong&amp;gt; [IL-16 / PVI: R+8 / Term ends: 2021]</content>
     <link href="https://www.apnews.com/abe2a09df6eb44f98f24e25501f250d8" rel="alternate"/>
     <published>2019-10-03T00:00:00+00:00</published>
@@ -240,7 +248,7 @@
   <entry>
     <id>https://www.theintell.com/news/20191003/fitzpatrick-talks-impeachment-with-truman-students-and-whether-he-wants-to-be-president</id>
     <title>Rep. Brian Fitzpatrick (R-PA): Supports gathering facts</title>
-    <updated>2019-10-22T08:05:47.266456+00:00</updated>
+    <updated>2019-10-22T19:23:21.904596+00:00</updated>
     <content>&amp;lt;strong&amp;gt;Fitzpatrick wants an impartial investigation&amp;lt;/strong&amp;gt; by law enforcement authorities.&amp;lt;strong&amp;gt; [PA-01 / PVI: R+1 / Term ends: 2021]</content>
     <link href="https://www.theintell.com/news/20191003/fitzpatrick-talks-impeachment-with-truman-students-and-whether-he-wants-to-be-president" rel="alternate"/>
     <published>2019-10-03T00:00:00+00:00</published>
@@ -248,7 +256,7 @@
   <entry>
     <id>https://www.foxnews.com/opinion/judge-andrew-napolitano-trump-attacks-presidency?fbclid=IwAR0zPl21DfHeJb1xu-CtrpxKr99O8M47FMdtjsSzSh0PYAIhix3k24Boj3M</id>
     <title>Fox News Commentator Andrew Napolitano (L): “The criminal behavior to which Trump has admitted is much more grave than anything alleged or unearthed by Special Counsel Robert Mueller,”</title>
-    <updated>2019-10-22T08:05:47.266456+00:00</updated>
+    <updated>2019-10-22T19:23:21.904596+00:00</updated>
     <content>“&amp;lt;strong&amp;gt;The criminal behavior to which Trump has admitted is much more grave than anything alleged or unearthed by Special Counsel Robert Mueller,&amp;lt;/strong&amp;gt; and much of what Mueller revealed was impeachable. ” Napolitano wrote.&amp;lt;strong&amp;gt;</content>
     <link href="https://www.foxnews.com/opinion/judge-andrew-napolitano-trump-attacks-presidency?fbclid=IwAR0zPl21DfHeJb1xu-CtrpxKr99O8M47FMdtjsSzSh0PYAIhix3k24Boj3M" rel="alternate"/>
     <published>2019-10-03T00:00:00+00:00</published>
@@ -256,7 +264,7 @@
   <entry>
     <id>https://www.freep.com/story/news/politics/2019/10/02/donald-trump-interactions-ukraine-fred-upton/3847899002/</id>
     <title>Rep. Fred Upton (R-MI): Supports gathering facts</title>
-    <updated>2019-10-22T08:05:47.266456+00:00</updated>
+    <updated>2019-10-22T19:23:21.904596+00:00</updated>
     <content>Upton has no problem with Democratic-led committees digging for more information.Upton has no problem with Democratic-led committees digging for more information.&amp;lt;strong&amp;gt; [MI-06 / PVI: R+4 / Term ends: 2021]</content>
     <link href="https://www.freep.com/story/news/politics/2019/10/02/donald-trump-interactions-ukraine-fred-upton/3847899002/" rel="alternate"/>
     <published>2019-10-02T00:00:00+00:00</published>
@@ -264,23 +272,23 @@
   <entry>
     <id>https://thefederalist.com/2019/10/01/mark-sanford-recent-hearsay-allegations-show-trump-should-be-impeached-at-first-glance/</id>
     <title>Fmr. Gov. Mark Sanford (R-SC): Supports impeachment</title>
-    <updated>2019-10-22T08:05:47.266456+00:00</updated>
-    <content>Sanford said &amp;lt;strong&amp;gt;the president should be impeached&amp;lt;/strong&amp;gt; based on an anonymous whistleblower complaint.&amp;lt;strong&amp;gt; [SC / PVI: R+8]</content>
+    <updated>2019-10-22T19:23:21.904596+00:00</updated>
+    <content>Sanford said &amp;lt;strong&amp;gt;the president should be impeached&amp;lt;/strong&amp;gt; based on an anonymous whistleblower complaint.&amp;lt;strong&amp;gt; [SC]</content>
     <link href="https://thefederalist.com/2019/10/01/mark-sanford-recent-hearsay-allegations-show-trump-should-be-impeached-at-first-glance/" rel="alternate"/>
     <published>2019-10-01T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.washingtonpost.com/opinions/jeff-flake-fellow-republicans-theres-still-time-to-save-your-souls/2019/09/30/ade876f6-e2d3-11e9-b403-f738899982d2_story.html</id>
     <title>Fmr. Sen. Jeff Flake (R-AZ): Supports impeachment</title>
-    <updated>2019-10-22T08:05:47.266456+00:00</updated>
-    <content>“&amp;lt;strong&amp;gt;The president’s actions warrant impeachment,&amp;lt;/strong&amp;gt;” Flake said.&amp;lt;strong&amp;gt; [AZ / PVI: R+5]</content>
+    <updated>2019-10-22T19:23:21.903601+00:00</updated>
+    <content>“&amp;lt;strong&amp;gt;The president’s actions warrant impeachment,&amp;lt;/strong&amp;gt;” Flake said.&amp;lt;strong&amp;gt; [AZ]</content>
     <link href="https://www.washingtonpost.com/opinions/jeff-flake-fellow-republicans-theres-still-time-to-save-your-souls/2019/09/30/ade876f6-e2d3-11e9-b403-f738899982d2_story.html" rel="alternate"/>
     <published>2019-09-30T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.cbsnews.com/news/will-hurd-on-face-the-nation-says-president-trump-impeachment-would-be-premature/</id>
     <title>Rep. Will Hurd (R-TX): Supports gathering facts</title>
-    <updated>2019-10-22T08:05:47.266456+00:00</updated>
+    <updated>2019-10-22T19:23:21.903601+00:00</updated>
     <content>Hurd believes &amp;lt;strong&amp;gt;Congress needs to investigate President Trump's efforts to solicit the assistance of a foreign government&amp;lt;/strong&amp;gt; to dig up political dirt on domestic opponents.&amp;lt;strong&amp;gt; [TX-23 / PVI: R+1 / Retiring]</content>
     <link href="https://www.cbsnews.com/news/will-hurd-on-face-the-nation-says-president-trump-impeachment-would-be-premature/" rel="alternate"/>
     <published>2019-09-29T00:00:00+00:00</published>
@@ -288,7 +296,7 @@
   <entry>
     <id>https://mobile.twitter.com/ThisWeekABC/status/1178295532696899584</id>
     <title>Fmr. Trump DHS Advisor Tom Bossert (R): “It is a bad day and a bad week for the president and for this country if he is asking for political dirt on an opponent.”</title>
-    <updated>2019-10-22T08:05:47.266456+00:00</updated>
+    <updated>2019-10-22T19:23:21.903601+00:00</updated>
     <content>“&amp;lt;strong&amp;gt;It is a bad day and a bad week for the president and for this country if he is asking for political dirt on an opponent.&amp;lt;/strong&amp;gt;” Bossert said.&amp;lt;strong&amp;gt;</content>
     <link href="https://mobile.twitter.com/ThisWeekABC/status/1178295532696899584" rel="alternate"/>
     <published>2019-09-27T00:00:00+00:00</published>
@@ -296,7 +304,7 @@
   <entry>
     <id>https://thenevadaindependent.com/article/amodei-on-trump-impeachment-inquiry-lets-put-it-through-the-process-and-see-what-happens</id>
     <title>Rep. Mark Amodei (R-NV): Supports gathering facts</title>
-    <updated>2019-10-22T08:05:47.266456+00:00</updated>
+    <updated>2019-10-22T19:23:21.903601+00:00</updated>
     <content>“&amp;lt;strong&amp;gt;Let’s put it through the process and see what happens,&amp;lt;/strong&amp;gt;” Amodei said.&amp;lt;strong&amp;gt; [NV-02 / PVI: R+7 / Term ends: 2021]</content>
     <link href="https://thenevadaindependent.com/article/amodei-on-trump-impeachment-inquiry-lets-put-it-through-the-process-and-see-what-happens" rel="alternate"/>
     <published>2019-09-27T00:00:00+00:00</published>
@@ -304,7 +312,7 @@
   <entry>
     <id>https://twitter.com/Scaramucci/status/1177198622078906368?s=19</id>
     <title>Fmr. Trump WH Comm. Dir. Anthony Scaramucci (R): Supports impeachment</title>
-    <updated>2019-10-22T08:05:47.266456+00:00</updated>
+    <updated>2019-10-22T19:23:21.903601+00:00</updated>
     <content>“Hey @realDonaldTrump you trying to get dirt on @JoeBiden from the leader of the Ukraine on the phone is not like playing a game of 'Telephone' in middle school. &amp;lt;strong&amp;gt;You are a felon and a traitor to the United States&amp;lt;/strong&amp;gt;.” Scaramucci said.&amp;lt;strong&amp;gt;</content>
     <link href="https://twitter.com/Scaramucci/status/1177198622078906368?s=19" rel="alternate"/>
     <published>2019-09-26T00:00:00+00:00</published>
@@ -312,7 +320,7 @@
   <entry>
     <id>https://www.nytimes.com/2019/09/26/us/politics/phil-scott-vermont-governor-impeachment.html</id>
     <title>Gov. Phil Scott (R-VT): Supports an inquiry</title>
-    <updated>2019-10-22T08:05:47.266456+00:00</updated>
+    <updated>2019-10-22T19:23:21.903601+00:00</updated>
     <content>“&amp;lt;strong&amp;gt;I think the inquiry is important,&amp;lt;/strong&amp;gt; yes, and where it leads from here is going to be driven by the facts that are established,” Scott said.&amp;lt;strong&amp;gt; [VT / PVI: D+15 / Term ends: 2021]</content>
     <link href="https://www.nytimes.com/2019/09/26/us/politics/phil-scott-vermont-governor-impeachment.html" rel="alternate"/>
     <published>2019-09-26T00:00:00+00:00</published>
@@ -320,7 +328,7 @@
   <entry>
     <id>https://www.washingtonpost.com/politics/2019/09/26/two-republican-governors-say-they-support-impeachment-inquiry-trump/</id>
     <title>Gov. Charlie Baker (R-MA): Supports an inquiry</title>
-    <updated>2019-10-22T08:05:47.266456+00:00</updated>
+    <updated>2019-10-22T19:23:21.903601+00:00</updated>
     <content>“It’s a deeply disturbing situation and circumstance and I think the proper role and responsibility for Congress at this point is to &amp;lt;strong&amp;gt;investigate it and get to the bottom of it,&amp;lt;/strong&amp;gt;” Baker said.&amp;lt;strong&amp;gt; [MA / PVI: D+12 / Term ends: 2023]</content>
     <link href="https://www.washingtonpost.com/politics/2019/09/26/two-republican-governors-say-they-support-impeachment-inquiry-trump/" rel="alternate"/>
     <published>2019-09-26T00:00:00+00:00</published>
@@ -328,15 +336,15 @@
   <entry>
     <id>https://www.washingtonpost.com/politics/gop-rival-bill-weld-says-trump-has-committed-treason-pure-and-simple/2019/09/23/30b80606-de00-11e9-b199-f638bf2c340f_story.html</id>
     <title>Fmr. Gov. Bill Weld (R-MA): Supports impeachment</title>
-    <updated>2019-10-22T08:05:47.266456+00:00</updated>
-    <content>Weld says Trump has committed ‘&amp;lt;strong&amp;gt;treason, pure and simple.&amp;lt;/strong&amp;gt;’&amp;lt;strong&amp;gt; [MA / PVI: D+12]</content>
+    <updated>2019-10-22T19:23:21.903601+00:00</updated>
+    <content>Weld says Trump has committed ‘&amp;lt;strong&amp;gt;treason, pure and simple.&amp;lt;/strong&amp;gt;’&amp;lt;strong&amp;gt; [MA]</content>
     <link href="https://www.washingtonpost.com/politics/gop-rival-bill-weld-says-trump-has-committed-treason-pure-and-simple/2019/09/23/30b80606-de00-11e9-b199-f638bf2c340f_story.html" rel="alternate"/>
     <published>2019-09-23T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://twitter.com/justinamash/status/1129831629910872064</id>
     <title>Rep. Justin Amash (R-MI): Supports impeachment</title>
-    <updated>2019-10-22T08:05:47.266456+00:00</updated>
+    <updated>2019-10-22T19:23:21.903601+00:00</updated>
     <content>“&amp;lt;strong&amp;gt;President Trump has engaged in impeachable conduct.&amp;lt;/strong&amp;gt;”&amp;lt;strong&amp;gt; [MI-03 / PVI: R+6 / Term ends: 2021]</content>
     <link href="https://twitter.com/justinamash/status/1129831629910872064" rel="alternate"/>
     <published>2019-05-18T00:00:00+00:00</published>
