@@ -1,5 +1,5 @@
 <a href="https://github.com/coptrump/coptrump"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png" alt="Fork me on GitHub"></a>
-<span style="display:block;text-align:center">[Home](#) | [Contribute](https://github.com/coptrump/coptrump.github.io/issues/new) | [Contact](mailto:COP@coptrump.com) | [RSS Feed](https://coptrump.com/rss.xml) | [Atom Feed](https://coptrump.com/rss.xml)</span>
+<span style="display:block;text-align:center">[Home](#) | [Contribute](https://github.com/coptrump/coptrump.github.io/issues/new) | [Contact](mailto:COP@coptrump.com) | [RSS Feed](https://coptrump.com/rss.xml) | [Atom Feed](https://coptrump.com/atom.xml)</span>
 <span style="display:block;text-align:center">![Country Over Party](country-over-party-cropped.jpg)</span><br/>
 _Republican legislators, cabinet/White House officials, and prominent conservatives/veterans bravely speaking out:_
 
