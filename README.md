@@ -22,10 +22,12 @@ _Republican legislators, cabinet/White House officials, and prominent conservati
 
 |Date/Speaker|Statement (_prefaced with summary_)|
 |-------|-------|
+<span style="color:#002868">**__23 Dec 19__**</span>|&nbsp;
+Fmr. Rep. __Dave Trott__ <span style="color:#6e6e6e">[R&#8209;MI][rep47]</span>|\[<span style="color:#BF0A30">_Supports impeachment_</span>\]: “__Trump is psychologically, morally, intellectually, and emotionally unfit for office____. We can only hope Congress impeaches and removes him so we have a choice between two adults in 2020.”[<sup>47</sup>](#c47)<a name="top47"></a>
 <span style="color:#002868">**__15 Dec 19__**</span>|&nbsp;
 2016 GOP Pres. Candidate __Carly Fiorina__ <span style="color:#6e6e6e">([R][R])</span>|\[<span style="color:#BF0A30">_Supports impeachment_</span>\]: Carly Fiorina, a 2016 GOP presidential candidate, says “__it is vital__” that President Donald Trump be impeached[<sup>46</sup>](#c46)<a name="top46"></a>
 <span style="color:#002868">**__28 Nov 19__**</span>|&nbsp;
-Fmr. Rep. __Charlie Dent__ <span style="color:#6e6e6e">[R&#8209;PA][rep45]</span> <span style="background-color:#ffffff">[EVEN][pvi45]</span>|“__But there's no question having spoken to many [GOP lawmakers] privately they're absolutely disgusted and exhausted by the president's behavior__. They resent being put in this position all the time. I mean, just take, for example, Ana, they tried to -- remember how they tried to pivot from the Ukraine scandal a few weeks ago by pivoting to Doral, bringing the G7 there, __moving from one corrupt act to another__. I mean, those types of head-exploding moments are just infuriating, I think, these members.” [<sup>45</sup>](#c45)<a name="top45"></a>
+Fmr. Rep. __Charlie Dent__ <span style="color:#6e6e6e">[R&#8209;PA][rep45]</span> <span style="background-color:#ff8b8b">[R+20][pvi45]</span>|“__But there's no question having spoken to many [GOP lawmakers] privately they're absolutely disgusted and exhausted by the president's behavior__. They resent being put in this position all the time. I mean, just take, for example, Ana, they tried to -- remember how they tried to pivot from the Ukraine scandal a few weeks ago by pivoting to Doral, bringing the G7 there, __moving from one corrupt act to another__. I mean, those types of head-exploding moments are just infuriating, I think, these members.” [<sup>45</sup>](#c45)<a name="top45"></a>
 <span style="color:#002868">**__25 Nov 19__**</span>|&nbsp;
 Fmr. Sen. __Slade Gorton__ <span style="color:#6e6e6e">[R&#8209;WA][rep44]</span> <span style="background-color:#d7d7ff">[D+7][pvi44]</span>|\[<span style="color:#FFB000">_Supports gathering facts_</span>\]: “__It seems clear to me that the president of Ukraine was subjected to a shakedown.__”[<sup>44</sup>](#c44)<a name="top44"></a>
 <span style="color:#002868">**__17 Nov 19__**</span>|&nbsp;
@@ -108,7 +110,8 @@ Rep. __Justin Amash__ <span style="color:#6e6e6e">[R&#8209;MI][rep1]</span> <spa
 <sup>¶</sup> Rep. Amash resigned from the Republican Party on July 4, 2019. He is now an Independent. [^](#top1)<a name="f1">&nbsp;</a>
 
 
-[pvi45]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state "Cook Partisan Voting Index (PVI) for Pennsylvania"
+[pvi47]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_congressional_district "Cook Partisan Voting Index (PVI) for Michigan - District 11"
+[pvi45]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_congressional_district "Cook Partisan Voting Index (PVI) for Pennsylvania - District 15"
 [pvi44]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state "Cook Partisan Voting Index (PVI) for Washington"
 [pvi43]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_congressional_district "Cook Partisan Voting Index (PVI) for Ohio - District 10"
 [pvi42]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state "Cook Partisan Voting Index (PVI) for Maryland"
@@ -146,7 +149,8 @@ Rep. __Justin Amash__ <span style="color:#6e6e6e">[R&#8209;MI][rep1]</span> <spa
 [pvi2]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state "Cook Partisan Voting Index (PVI) for Massachusetts"
 [pvi1]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_congressional_district "Cook Partisan Voting Index (PVI) for Michigan - District 3"
 
-[rep45]: https://ballotpedia.org/Pennsylvania "Republican - Pennsylvania"
+[rep47]: https://duckduckgo.com/?q=!ducky+MI-11+congressional+district+site%3Aballotpedia.org "Republican - Michigan - District 11"
+[rep45]: https://duckduckgo.com/?q=!ducky+PA-15+congressional+district+site%3Aballotpedia.org "Republican - Pennsylvania - District 15"
 [rep44]: https://ballotpedia.org/Washington "Republican - Washington"
 [rep43]: https://duckduckgo.com/?q=!ducky+OH-10+congressional+district+site%3Aballotpedia.org "Republican - Ohio - District 10"
 [rep42]: https://ballotpedia.org/Maryland "Republican - Maryland"
@@ -193,6 +197,7 @@ Rep. __Justin Amash__ <span style="color:#6e6e6e">[R&#8209;MI][rep1]</span> <spa
 
 ## Citations
 
+<sup><a name="c47">47</a></sup> n/a. &ldquo;The Atlantic January/February 2020 Issue: The Commons&rdquo;, _The Atlantic_, 23 December 2019, https://www.theatlantic.com/magazine/archive/2020/01/the-commons/603022/ [^](#top47)<br/>
 <sup><a name="c46">46</a></sup> Woodall, Hunter. &ldquo;2016 GOP candidate Fiorina calls Trump’s impeachment ‘vital’&rdquo;, _AP NEWS_, 15 December 2019, https://apnews.com/caa727ac8a33ce930a54ec5d6de26fe2 [^](#top46)<br/>
 <sup><a name="c45">45</a></sup> n/a. &ldquo;Transcripts&rdquo;, _Transcripts_, 28 November 2019, http://transcripts.cnn.com/TRANSCRIPTS/1911/28/cnr.03.html [^](#top45)<br/>
 <sup><a name="c44">44</a></sup> Gorton, Slade. &ldquo;Opinion | My Fellow Republicans, Please Follow the Facts&rdquo;, _The New York Times_, 25 November 2019, https://www.nytimes.com/2019/11/25/opinion/my-fellow-republicans-please-follow-the-facts.html [^](#top44)<br/>
