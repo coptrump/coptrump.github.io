@@ -1,7 +1,13 @@
+
+<a href="https://github.com/coptrump/coptrump">
+    <img style="position: absolute; top: 0; right: 0; border: 0;"
+        src="https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png" alt="Fork me on GitHub">
+</a>
+
 <span style="display:block;text-align:center">
 
 [Home](#) |
-[Comment](#disqus_thread) |
+[Comment](#comments) |
 [Contribute](https://github.com/coptrump/coptrump.github.io/issues/new) |
 [Contact](mailto:COP@coptrump.com) |
 [RSS Feed](https://coptrump.com/rss.xml) |
@@ -107,7 +113,7 @@ _Republican legislators, cabinet/White House officials, and prominent conservati
 <a name="f27"/>[<sup>‡</sup>](#top27) The quote is from a press release from [Checks and Balances](https://checks-and-balances.org/), and is signed by [Jonathan H. Adler](https://www.google.com/search?q=Jonathan+H.+Adler), [Donald B. Ayer](https://www.google.com/search?q=Donald+B.+Ayer), [George T. Conway III](https://www.google.com/search?q=George+T.+Conway+III), [Carrie F. Cordero](https://www.google.com/search?q=Carrie+F.+Cordero), [Charles Fried](https://www.google.com/search?q=Charles+Fried), [Stuart M. Gerson](https://www.google.com/search?q=Stuart+M.+Gerson), [Peter D. Keisler](https://www.google.com/search?q=Peter+D.+Keisler), [Orin S. Kerr](https://www.google.com/search?q=Orin+S.+Kerr), [Marisa C. Maleck](https://www.google.com/search?q=Marisa+C.+Maleck), [Trevor Potter](https://www.google.com/search?q=Trevor+Potter), [Alan Charles Raul](https://www.google.com/search?q=Alan+Charles+Raul), [Jonathan C. Rose](https://www.google.com/search?q=Jonathan+C.+Rose), [Paul Rosenzweig](https://www.google.com/search?q=Paul+Rosenzweig), [Andrew Sagor](https://www.google.com/search?q=Andrew+Sagor), [Jaime D. Sneider](https://www.google.com/search?q=Jaime+D.+Sneider), and  [J.W. Verret](https://www.google.com/search?q=J.W.+Verret), Each speaks and acts solely in their individual capacities, and their views should not be attributed to any organization with which they may be affiliated. *See* [here](https://checks-and-balances.org/new-statement-from-checks-and-balances-on-president-trumps-abuse-of-office/). <br/>
 <a name="f7"/>[<sup>§</sup>](#top7) On April 10, 2018, Bossert resigned, a day after John R. Bolton, the newly appointed National Security Advisor, started his tenure. *See* [here](https://www.nytimes.com/2018/04/10/us/politics/tom-bossert-trump-homeland-security.html). <br/>
 <a name="f5"/>[<sup>‖</sup>](#top5) On July 31, 2017, as one of his first acts after being sworn in as Chief of Staff, John Kelly reportedly invited Scaramucci to his office and told him he was being let go. *See* [here](https://www.nytimes.com/2017/07/31/us/politics/trump-white-house-obamacare-health.html). <br/>
-<a name="f1"/>[<sup>¶</sup>](#top1) Rep. Amash resigned from the Republican Party on July 4, 2019. He is now an Independent. *See* [here](https://www.washingtonpost.com/opinions/justin-amash-our-politics-is-in-a-partisan-death-spiral-thats-why-im-leaving-the-gop/2019/07/04/afbe0480-9e3d-11e9-b27f-ed2942f73d70_story.html).
+<a name="f1"/>[<sup>¶</sup>](#top1) Rep. Amash resigned from the Republican Party on July 4, 2019. He is now an Independent. *See* [here](https://www.washingtonpost.com/opinions/justin-amash-our-politics-is-in-a-partisan-death-spiral-thats-why-im-leaving-the-gop/2019/07/04/afbe0480-9e3d-11e9-b27f-ed2942f73d70_story.html). 
 
 
 [pvi48]: https://wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_congressional_district "Cook Partisan Voting Index (PVI) for Michigan - District 11"
