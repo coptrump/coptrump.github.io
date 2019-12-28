@@ -27,7 +27,7 @@ _Republican legislators, cabinet/White House officials, and prominent conservati
 |Date/Speaker|Statement (_prefaced with summary_)|
 |-------|-------|
 <span style="color:#002868">**__23 Dec 19__**</span>|&nbsp;
-<a name="top48"/>Fmr. Rep. __Dave Trott__ <span style="color:#6e6e6e">[R&#8209;MI][rep48]</span>|\[<span style="color:#BF0A30">_Supports impeachment_</span>\]: “__Trump is psychologically, morally, intellectually, and emotionally unfit for office__. We can only hope Congress impeaches and removes him so we have a choice between two adults in 2020.”[<sup>48</sup>](#c48)
+<a name="top48"/>Fmr. Rep. __Dave Trott__ <span style="color:#6e6e6e">[R&#8209;MI][rep48]</span> <span style="background-color:#ffe8e8">[R+4][pvi48]</span>|\[<span style="color:#BF0A30">_Supports impeachment_</span>\]: “__Trump is psychologically, morally, intellectually, and emotionally unfit for office__. We can only hope Congress impeaches and removes him so we have a choice between two adults in 2020.”[<sup>48</sup>](#c48)
 <span style="color:#002868">**__16 Dec 19__**</span>|&nbsp;
 <a name="top47"/>Fmr. FBI/CIA Director __William Webster__ <span style="color:#6e6e6e">([R][R])</span>|__Calling F.B.I. professionals “scum,” as the president did, is a slur against people who risk their lives to keep us safe__. Mr. Barr’s charges of bias within the F.B.I., made without providing any evidence and in direct dispute of the findings of the nonpartisan inspector general, risk inflicting enduring damage on this critically important institution.[<sup>47</sup>](#c47)
 <span style="color:#002868">**__15 Dec 19__**</span>|&nbsp;
