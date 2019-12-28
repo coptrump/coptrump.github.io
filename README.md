@@ -1,6 +1,7 @@
 <span style="display:block;text-align:center">
 
 [Home](#) |
+[Comment](#disqus_thread) |
 [Contribute](https://github.com/coptrump/coptrump.github.io/issues/new) |
 [Contact](mailto:COP@coptrump.com) |
 [RSS Feed](https://coptrump.com/rss.xml) |
