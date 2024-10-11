@@ -3,7 +3,7 @@
  */
 
 html {
-  font-size: 100%;
+  /* font-size: 100%; */
   overflow-y: scroll;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -12,9 +12,9 @@ html {
 body {
   color: #444;
   font-family: Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
-  font-size: 12px;
-  line-height: 1.7;
-  padding: 1em;
+  font-size: 1.1em;
+  line-height: 1.4;
+  /* padding: 1em; */
   margin: auto;
   /* max-width: 42em; */
   background: #fefefe;
@@ -253,16 +253,19 @@ table td {
   text-align: center;
 }
 
+/*
 @media only screen and (min-width: 480px) {
   body {
-    font-size: 14px;
+    font-size: 1.2em;
   }
 }
 @media only screen and (min-width: 768px) {
   body {
-    font-size: 16px;
+    font-size: 1.4em;
   }
 }
+*/
+
 @media print {
   * {
     /* background: transparent !important; */
@@ -272,7 +275,7 @@ table td {
   }
 
   body {
-    font-size: 12pt;
+    /* font-size: 12pt;*/
     max-width: 100%;
   }
 
